@@ -30,7 +30,34 @@ img {
     display: block;
 }
 
+.container {
+    width: 1158px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 /* Хедер */
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+}
+
+.nav {
+    display: flex;
+    width: 452px;
+    justify-content: space-between;
+}
+
+.nav-section {
+    display: flex;
+    gap: 40px;
+}
+
 
 .nav-logo {
     color: #4D5AE5;
@@ -57,14 +84,17 @@ img {
     color: #404BBF;
 }
 
+.nav-contacts {
+    display: flex;
+    gap: 40px;
+}
+
 .nav-contacts-link {
     color: #434455;
     font-weight: 500;
 }
 
-.nav-cont {
-    font-style: normal
-}
+.nav-cont {}
 
 .nav-contacts-link:hover,
 .nav-contacts-link:active,
