@@ -309,6 +309,13 @@ img {
 
 /* Футер */
 
+
+.afterwords-container {
+    padding-top: 101.5px;
+    padding-bottom: 100px;
+    padding-left: 156px;
+}
+
 .foot-logo {
     color: #4d5ae5;
     font-family: 'Raleway', sans-serif;
@@ -331,4 +338,6 @@ img {
 .afterwords-text {
     color: #F4F4FD;
     font-weight: 400;
+    width: 264px;
+    margin-top: 17.5px;
 }
