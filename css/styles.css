@@ -262,6 +262,12 @@ img {
 
 /* Портфоліо */
 
+.content {
+    width: 1158рх;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
 .pjct-list {
     display: flex;
     flex-wrap: wrap;
@@ -297,8 +303,7 @@ img {
 
 
 .project-item {
-    width: calc((100% - 24px) / 3);
-    border: 1px solid #E7E9FC;
+    width: ((100% - 48px) / 3);
     background: #FFF;
 
 }
