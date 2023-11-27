@@ -105,7 +105,7 @@ img {
 
 .nav-contacts-link {
     color: #434455;
-    font-weight: 500;
+    font-weight: 400;
 }
 
 
@@ -171,11 +171,6 @@ img {
 
 /* Переваги */
 
-
-.benefits-container {
-    margin-left: auto;
-    margin-right: auto;
-}
 
 
 .ben-list {
@@ -330,16 +325,11 @@ img {
 
 }
 
-.project-title {
-    margin-top: 32px;
-}
 
 /* Футер */
 
 
-.afterwords-container {
-    padding: 100px 0;
-}
+
 
 .foot-logo {
     display: inline-block;
